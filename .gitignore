@@ -1,3 +1,6 @@
+# Project files/folders
+config.json
+scores.sqlite
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
